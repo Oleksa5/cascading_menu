@@ -15,7 +15,7 @@ Look at the [example](https://github.com/Oleksa5/cascading_menu/blob/main/exampl
 * Context menu region and menu button widgets.
 * Elaborated menu style.
 * Radio, checkbox and slider menu items.
-* Display a label of a given shorcut activator and find an action from it.
+* Display a label of a given shortcut activator and find an action from it.
 * Suitable for use on the desktop and mobile platforms.
 
 ## Screenshots
